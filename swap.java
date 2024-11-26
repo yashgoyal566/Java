@@ -15,7 +15,7 @@ public class swap {
         b=temp;
         System.out.println("the number after swapping are:"+a +" " +b);
         
-        s.close()
+        s.close();
 
 
     }
