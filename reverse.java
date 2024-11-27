@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class reverse {
     public static void main(String[] args) {
         int n, rev = 0, rem;
-        ;
         System.out.println("Enter any number:");
         Scanner s = new Scanner(System.in);
         n = s.nextInt();
